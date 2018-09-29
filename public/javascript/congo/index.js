@@ -1,1 +1,5 @@
-ECHO jest wˆ¥czone.
+Congo = {
+    init : function() {
+
+    }
+}
