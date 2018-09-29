@@ -1,0 +1,11 @@
+{
+  "name": "congo",
+  "version": "1.0.0",
+  "description": "app form pluralsight",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "scoobek",
+  "license": "ISC"
+}
