@@ -1,5 +1,0 @@
-Congo = {
-    init : function() {
-
-    }
-}
